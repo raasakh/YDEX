@@ -1,5 +1,0 @@
-*       text eol=lf
-*.ico  -text diff
-*.png  -text diff
-*.icns -text diff
-
