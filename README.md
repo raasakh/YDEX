@@ -2,7 +2,6 @@
 
 [**Website**](https://wavesplatform.com/) | [**Discord**](https://discord.gg/cnFmDyA) | [**Forum**](https://forum.wavesplatform.com/) | [**Support**](https://support.wavesplatform.com/) | [**Documentation**](https://docs.wavesplatform.com)
 
-</ydex>
 ![Waves App Promo](https://github.com/raasakh/YDEX/blob/dev/wallet.png)
 
 Waves DEX is the official wallet software designed with mass adoption in mind. It allows to access your Waves account, handle financial operations, issue tokens, and trade on DEX.
