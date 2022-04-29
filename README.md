@@ -1,4 +1,5 @@
 # Waves DEX
+Децентрализированная площадка YouDEX (Decentralized Exchange) коротко YDEX это Layer 2 Waves Blockchain
 
 [**Website**](https://wavesplatform.com/) | [**Discord**](https://discord.gg/cnFmDyA) | [**Forum**](https://forum.wavesplatform.com/) | [**Support**](https://support.wavesplatform.com/) | [**Documentation**](https://docs.wavesplatform.com)
 
