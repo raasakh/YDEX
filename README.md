@@ -1,4 +1,4 @@
-# YDEX  </ ydex >
+# YDEX Транскрипция на Английском звучит [waidex] по Русски ВайДэкс или проще ЮДЕК от названия монеты YouTubeCoin DEX  </ ydex >
 
 Децентрализированная площадка YouDEX (Decentralized Exchange) коротко YDEX  это Layer 2 Waves Blockchain
 <p align="center">
